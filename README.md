@@ -16,6 +16,7 @@ This project presents an exploratory data analysis (EDA) of a retail sales datas
 - NumPy
 - Matplotlib
 - Seaborn
+- Scipy
 
 ## Key Analysis Performed
 - Data cleaning and validation
