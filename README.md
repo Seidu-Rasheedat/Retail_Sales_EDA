@@ -37,6 +37,7 @@ This project presents an exploratory data analysis (EDA) of a retail sales datas
 - `README.md` – Project documentation
 - `.gitignore` – Git ignore file
 - `LICENSE` – MIT License
+- `Cleaned_retail_sales.xls`- cleaned retail sales data used for the project 
 
 ## Author
 **Rasheedat Seidu**  
